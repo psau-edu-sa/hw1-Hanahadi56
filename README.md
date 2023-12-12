@@ -1,6 +1,6 @@
 # hw1-Hanahadi56
 hw1-Hanahadi56 created by GitHub Classroom
-# About Kana Program:
+# About the Canva website:
 
 
 I read this program and browsed it recently. It is a software that is simple in graphic design and is able to create social media posts
